@@ -13,8 +13,8 @@
 
 // Constants
 
-#define W 9
-#define H 9
+#define W 3
+#define H 3
 #define INPUT_SIZE 10
 #define EXIT -1
 #define CONTINUE -2
